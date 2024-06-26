@@ -36,7 +36,11 @@ div {
     font-style: light italic;
 }
 
-.sign-up
+.sign-up {
+    background-color: #3882F6;
+    color:#F9FAF8;
+    font-size: 30px;
+}
 
 .footer { 
     background-color: #1F2937;
